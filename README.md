@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/193ho5Q3H9HSCXvLMpzYnIVksN3kMB5qR/view?usp=drive_link)
+![logo](https://github.com/Aadhithpr/Aadhithpr/blob/main/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
