@@ -66,6 +66,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Aadhithpr/Aadhithpr/output/snake.svg" alt="Snake animation" />
 
 ###
